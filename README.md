@@ -18,7 +18,7 @@ Segno | Nome | Tasti da premere
 
 ## Installazione
 
-Per installare il layout basta (scaricare)[https://github.com/linuxiamo/devs-kb-layout-ita/archive/master.zip] il file zippato, decomprimerlo e lanciare setup.exe.
+Per installare il layout basta [scaricare](https://github.com/linuxiamo/devs-kb-layout-ita/archive/master.zip) il file zippato, decomprimerlo e lanciare setup.exe.
 
 Una volta completata l'installazione occorre riavviare Windows, quindi in basso a destra accanto all'orario selezionare il layout tastiera indicato come "ITA".
 
