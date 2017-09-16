@@ -6,7 +6,7 @@ Il layout è basato su quello classico della tastiera italiana, con l'aggiunta d
 
 I tasti aggiunti, con le relative combinazioni da premere per attivarli, sono i seguenti:
 
-Segno | Nome | Tasti da premere
+Segno | Simbolo scritto | Tasti da premere
 :---:| :---: | :---:
 ~ | Tilde | <kbd>ALT GR</kbd>+<kbd>ì</kbd>
 ~ | Tilde | <kbd>ALT GR</kbd>+<kbd>5</kbd>
