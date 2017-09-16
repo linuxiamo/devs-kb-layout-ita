@@ -16,7 +16,7 @@ Segno | Simbolo scritto | Tasti da premere
 “ | Doppie virgolette aperte in alto | <kbd>ALT GR</kbd>+<kbd>6</kbd>
 „ | Doppie virgolette chiuse in basso | <kbd>ALT GR</kbd>+<kbd>7</kbd>
 À | _A_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>à</kbd>
-È | _E_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>e</kbd>
+È | _E_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd>
 Ì | _I_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ì</kbd>
 Ò | _O_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ò</kbd>
 Ù | _U_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ù</kbd>
