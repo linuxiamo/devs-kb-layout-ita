@@ -2,7 +2,7 @@
 
 devs-kb-layout-ita è un layout di tastiera personalizzato per Windows 10.
 
-Il layout è basato su quello classico della tastiera italiana, con l'aggiunta di alcuni tasti specifici per gli sviluppatori, più alcuni altri segni che è comodo avere sulla tastiera, come le virgolette caporali o la E accentata maiuscola.
+Il layout è basato su quello classico della tastiera italiana, con l'aggiunta di alcuni tasti specifici per gli sviluppatori, più alcuni altri segni che è comodo avere sulla tastiera, come le virgolette caporali o le vocali accentate maiuscole.
 
 I tasti aggiunti, con le relative combinazioni da premere per attivarli, sono i seguenti:
 
