@@ -21,7 +21,7 @@ Segno | Simbolo scritto | Tasti da premere
 Ò | _O_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ò</kbd>
 Ù | _U_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ù</kbd>
 
->**Nota**: La combinazione per generare la `È` utilizza il tasto `SHIFT` e la `E` non accentata, differentemente dalle altre lettere maiuscole accentate aggiunte in questo layout, in quanto <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>è</kbd> genera la parentesi graffa aperta `{` sul normale layout di Windows.
+>**Nota**: La combinazione per generare la `È` utilizza i tasti <kbd>SHIFT</kbd> e la <kbd>E</kbd> non accentata, differentemente dalla convenzione usata per scrivere le altre maiuscole accentate aggiunte da questo layout, in quanto la combinazione <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>è</kbd> viene usata già dal layout normale di Windows per generare la parentesi graffa aperta `{`.
 
 ## Installazione
 
