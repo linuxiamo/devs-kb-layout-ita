@@ -16,10 +16,12 @@ Segno | Simbolo scritto | Tasti da premere
 “ | Doppie virgolette aperte in alto | <kbd>ALT GR</kbd>+<kbd>6</kbd>
 „ | Doppie virgolette chiuse in basso | <kbd>ALT GR</kbd>+<kbd>7</kbd>
 À | _A_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>à</kbd>
-È | _E_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd>
+È | _E_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>e</kbd>
 Ì | _I_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ì</kbd>
 Ò | _O_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ò</kbd>
 Ù | _U_ accentata maiuscola | <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>ù</kbd>
+
+>**Nota**: La combinazione per generare la `È` utilizza il tasto `SHIFT` e la `E` non accentata, differentemente dalle altre lettere maiuscole accentate aggiunte in questo layout, in quanto <kbd>ALT GR</kbd>+<kbd>SHIFT</kbd>+<kbd>è</kbd> genera la parentesi graffa aperta `{` sul normale layout di Windows.
 
 ## Installazione
 
