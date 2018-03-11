@@ -1,6 +1,6 @@
 # devs-kb-layout-ita
 
-devs-kb-layout-ita è un layout di tastiera personalizzato per Windows 10.
+_devs-kb-layout-ita_ è un layout di tastiera personalizzato per Windows 10.
 
 Il layout è basato su quello classico della tastiera italiana, con l'aggiunta di alcuni tasti specifici per gli sviluppatori, più alcuni altri segni che è comodo avere sulla tastiera, come le virgolette caporali o le vocali accentate maiuscole.
 
@@ -23,7 +23,12 @@ Segno | Simbolo scritto | Tasti da premere
 
 ## Installazione
 
-Per installare il layout basta [scaricare](https://github.com/linuxiamo/devs-kb-layout-ita/archive/master.zip) il file zippato, decomprimerlo e lanciare ```setup.exe``` che si trova nella cartella ```install```.
+Per installare il layout basta [scaricare](https://github.com/linuxiamo/devs-kb-layout-ita/archive/master.zip) manualmente il file zippato del repository, decomprimerlo e lanciare `setup.exe` che si trova nella cartella `install`.
+
+In alternativa per scaricare il repository si può usare anche _Git Bash_:
+```bash
+git clone https://github.com/linuxiamo/devs-kb-layout-ita devs-kb-layout-ita
+```
 
 Una volta completata l'installazione occorre riavviare Windows, quindi, per poter utilizzare i nuovi tasti, dalla barra delle applicazioni in basso a destra, accanto all'orario, selezionare il layout tastiera indicato come "ITA".
 
