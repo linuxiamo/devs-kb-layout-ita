@@ -34,7 +34,7 @@ git clone https://github.com/linuxiamo/devs-kb-layout-ita devs-kb-layout-ita
 
 Una volta completata l'installazione occorre riavviare Windows, quindi, per poter utilizzare i nuovi tasti, dalla barra delle applicazioni in basso a destra, accanto all'orario, selezionare il layout tastiera indicato come "ITA".
 
-È consigliabile rimuovere dalle Impostazioni di Windows, il layout di tastiera originale, in modo da non incorrere in un inavvertito cambio di layout qualora si premesse per sbaglio l'apposito shortcut.
+È consigliabile rimuovere il layout di tastiera originale dalle Impostazioni di Windows, in modo da non incorrere in un inavvertito cambio di layout qualora si premesse per sbaglio l'apposito shortcut.
 
 ## Personalizzazione del layout di tastiera
 
