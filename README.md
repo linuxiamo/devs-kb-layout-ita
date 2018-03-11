@@ -25,6 +25,12 @@ Segno | Simbolo scritto | Tasti da premere
 
 Per installare il layout basta [scaricare](https://github.com/linuxiamo/devs-kb-layout-ita/archive/master.zip) il file zippato, decomprimerlo e lanciare ```setup.exe``` che si trova nella cartella ```install```.
 
-Una volta completata l'installazione occorre riavviare Windows, quindi in basso a destra accanto all'orario selezionare il layout tastiera indicato come "ITA".
+Una volta completata l'installazione occorre riavviare Windows, quindi, per poter utilizzare i nuovi tasti, dalla barra delle applicazioni in basso a destra, accanto all'orario, selezionare il layout tastiera indicato come "ITA".
 
-È consigliabile rimuovere il layout di tastiera originale, in modo da non incorrere in un inavvertito cambio di layout qualora si premesse per sbaglio l'apposito shortcut.
+È consigliabile rimuovere dalle Impostazioni di Windows, il layout di tastiera originale, in modo da non incorrere in un inavvertito cambio di layout qualora si premesse per sbaglio l'apposito shortcut.
+
+## Personalizzazione del layout di tastiera
+
+Se lo si desidera, è possibile personalizzare il layout di tastiera, utilizzando l'apposita utility ufficiale <a href="https://www.microsoft.com/en-us/download/details.aspx?id=22339" terget="_blank">MSKLC</a> di Microsoft.
+
+Il file sorgente del layout si trova nella cartella `src` di questo repository.
