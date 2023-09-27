@@ -38,6 +38,6 @@ Una volta completata l'installazione occorre riavviare Windows, quindi, per pote
 
 ## Personalizzazione del layout di tastiera
 
-Se lo si desidera, è possibile personalizzare il layout di tastiera, utilizzando l'apposita utility ufficiale <a href="https://www.microsoft.com/en-us/download/details.aspx?id=22339" terget="_blank">MSKLC</a> di Microsoft.
+Se lo si desidera, è possibile personalizzare il layout di tastiera, utilizzando l'apposita utility ufficiale <a href="https://www.microsoft.com/en-us/download/details.aspx?id=102134" terget="_blank">MSKLC</a> di Microsoft.
 
 Il file sorgente del layout si trova nella cartella `src` di questo repository.
